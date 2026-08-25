@@ -361,10 +361,7 @@ if opcao == "Cálculo da Área":
                     f"R$ {teo_excedente:.2f}/m²"
                 )
 
-                st.write(
-                    f"Valor correspondente a 1.000 m²: "
-                    f"R$ {valor_limite_1000:.2f}"
-                )
+                
 
                 st.write(
                     f"Valor pago: "
